@@ -10,3 +10,7 @@ Task 02:
 Task 03:
 ![Q3](https://user-images.githubusercontent.com/115397536/216751608-70131823-f793-4bbb-9e4e-2d348251a1ff.png)
 [task03.log](https://github.com/osamaairfan/OsLabSpr23/files/10607832/task03.log)
+
+Task 04:
+![Q4](https://user-images.githubusercontent.com/115397536/216752493-706a8fda-18f5-43f4-b780-d6b2af9d2b72.png)
+[task04.log](https://github.com/osamaairfan/OsLabSpr23/files/10607873/task04.log)
