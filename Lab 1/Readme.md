@@ -14,3 +14,7 @@ Task 03:
 Task 04:
 ![Q4](https://user-images.githubusercontent.com/115397536/216752493-706a8fda-18f5-43f4-b780-d6b2af9d2b72.png)
 [task04.log](https://github.com/osamaairfan/OsLabSpr23/files/10607873/task04.log)
+
+Task 05:
+
+//At first I logged in as a user 1 and gave him the privileges of sudoers using visudo command, secondly I switched to us
