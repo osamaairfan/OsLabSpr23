@@ -16,5 +16,7 @@ Task 04:
 [task04.log](https://github.com/osamaairfan/OsLabSpr23/files/10607873/task04.log)
 
 Task 05:
+Rest of the tasks will be uploaded here, due to a problem in my laptop I couldn't submit it but InshaAllah i'll submit it till today.
+
 
 //At first I logged in as a user 1 and gave him the privileges of sudoers using visudo command, secondly I switched to us
