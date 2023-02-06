@@ -27,6 +27,7 @@ Task 06:
 [unsorted.txt](https://github.com/osamaairfan/OsLabSpr23/files/10662648/unsorted.txt)
 
 [itssort06.txt](https://github.com/osamaairfan/OsLabSpr23/files/10662650/itssort06.txt)
+
 [task06.log](https://github.com/osamaairfan/OsLabSpr23/files/10662651/task06.log)
 
 
