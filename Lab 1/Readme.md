@@ -31,4 +31,4 @@ Task 06:
 [task06.log](https://github.com/osamaairfan/OsLabSpr23/files/10662651/task06.log)
 
 
-
+//Home tasks of installation process has also been done.
