@@ -19,7 +19,7 @@ Task 05:
 ![task 05](https://user-images.githubusercontent.com/115397536/216953599-10bd1adf-e791-45d5-aed7-f6d95aee8748.png)
 [task05.log](https://github.com/osamaairfan/OsLabSpr23/files/10662276/task05.log)
 
-//At first I logged in as my own username that has the privileges of sudoers, secondly I logged in as a user01 while being into my own //account and changed the password of user02. In short we cannot change any user's password without being a root user or having //administrative privileges. 
+//At first I logged in as my own username that has the privileges of sudoers, secondly I logged in as a user01 while being into my own account and changed the password of user02. In short we cannot change any user's password without being a root user or having administrative privileges. 
 
 
 Task 06:
