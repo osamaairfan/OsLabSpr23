@@ -38,4 +38,3 @@ At first I logged in as my own username that has the privileges of sudoers, seco
 > [task06.log](https://github.com/osamaairfan/OsLabSpr23/files/10662651/task06.log)
 
 
-//Home tasks of installation process has also been done.
