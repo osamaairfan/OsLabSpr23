@@ -1,0 +1,36 @@
+.
+├── arguments.sh
+├── fileNames.txt
+├── Merged.txt
+├── task01.sh
+├── task02.sh
+├── task03.sh
+├── task04.sh
+├── test01
+│   ├── 01
+│   │   └── test.txt
+│   └── 02
+│       └── test.txt
+├── test02
+│   ├── 01
+│   │   └── test.txt
+│   └── 02
+│       └── test.txt
+├── test03
+│   ├── 01
+│   │   └── test.txt
+│   └── 02
+│       └── test.txt
+├── test04
+│   ├── 01
+│   │   └── test.txt
+│   └── 02
+│       └── test.txt
+├── test05
+│   ├── 01
+│   │   └── test.txt
+│   └── 02
+│       └── test.txt
+└── test.sh
+
+16 directories, 18 files
