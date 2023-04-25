@@ -31,11 +31,10 @@ Section: BCY-4A
 
 ## Task 06:
 ![task06](https://user-images.githubusercontent.com/115397536/216963769-b4e531ac-aad3-4a80-ae33-2d235e8a2737.png)
-[unsorted.txt](https://github.com/osamaairfan/OsLabSpr23/files/10662648/unsorted.txt)
 
-[itssort06.txt](https://github.com/osamaairfan/OsLabSpr23/files/10662650/itssort06.txt)
-
-[task06.log](https://github.com/osamaairfan/OsLabSpr23/files/10662651/task06.log)
+> [unsorted.txt](https://github.com/osamaairfan/OsLabSpr23/files/10662648/unsorted.txt)
+> [itssort06.txt](https://github.com/osamaairfan/OsLabSpr23/files/10662650/itssort06.txt)
+> [task06.log](https://github.com/osamaairfan/OsLabSpr23/files/10662651/task06.log)
 
 
 //Home tasks of installation process has also been done.
