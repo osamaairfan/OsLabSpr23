@@ -16,7 +16,7 @@ Section: BCY-4A
 
 ## Task 03:
 ![Q3](https://user-images.githubusercontent.com/115397536/216751608-70131823-f793-4bbb-9e4e-2d348251a1ff.png)
-[task03.log](https://github.com/osamaairfan/OsLabSpr23/files/10607832/task03.log)
+> [task03.log](https://github.com/osamaairfan/OsLabSpr23/files/10607832/task03.log)
 
 ## Task 04:
 ![Q4](https://user-images.githubusercontent.com/115397536/216752493-706a8fda-18f5-43f4-b780-d6b2af9d2b72.png)
@@ -33,7 +33,9 @@ Section: BCY-4A
 ![task06](https://user-images.githubusercontent.com/115397536/216963769-b4e531ac-aad3-4a80-ae33-2d235e8a2737.png)
 
 > [unsorted.txt](https://github.com/osamaairfan/OsLabSpr23/files/10662648/unsorted.txt)
+> 
 > [itssort06.txt](https://github.com/osamaairfan/OsLabSpr23/files/10662650/itssort06.txt)
+> 
 > [task06.log](https://github.com/osamaairfan/OsLabSpr23/files/10662651/task06.log)
 
 
