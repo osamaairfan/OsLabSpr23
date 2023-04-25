@@ -5,8 +5,6 @@ Roll No: 21k-4772
 
 Section: BCY-4A
 
-## CLASS TASKS:
-
 ## Task 01: 
 ![Q1](https://user-images.githubusercontent.com/115397536/216751173-46f0230a-1abb-4241-8a3c-fd11d73e2588.png)
 > [task01.log](https://github.com/osamaairfan/OsLabSpr23/files/10607830/task01.log)
