@@ -1,4 +1,4 @@
-# OS Lab 07
+# OS Lab 06
 Name: M. Osama Irfan
 
 Roll No: 21k-4772
