@@ -5,7 +5,7 @@ Roll No: 21k-4772
 
 Section: BCY-4A
 
-# Task 1) Following and sumarizing the manual
+## Task 01:
 
 ### Installing squid
 
@@ -16,12 +16,12 @@ Section: BCY-4A
 ![squid5](https://user-images.githubusercontent.com/118754984/235299799-f8b09f68-22a4-4d3a-aac8-2596ef32a76d.png)
 ---
 
-### listing services
+### Listing services
 
 ![list services](https://user-images.githubusercontent.com/118754984/235299801-8744d877-a941-4ff9-bb97-e4f63c3d1848.png)
 ---
 
-### setting up unattended upgrades
+### Setting up unattended upgrades
 
 ![unattended upgrades](https://user-images.githubusercontent.com/118754984/235299802-42d5a90e-b0e6-4c5e-ac79-1e424e47b3d6.PNG)
 ---
@@ -96,39 +96,32 @@ Section: BCY-4A
 ---
 
 
-# Task 2) Summarizing the manual
+## Task 02:
 
-The lab focuses on implementing the best practices for improving the security of your Linux system. Starting with firewall and proxy configuration we set up Squid to block certain websites like Facebook and then set up a proxy to route all the traffic through Squid. 
+The lab's primary focus was on enhancing the security of a Linux system by implementing various best practices. Initially, we configured the firewall and proxy settings to block specific websites, such as Facebook, and redirected all traffic through Squid.
 
-Then we checked and disabled unnecessary services. And then ensured that our system was up to date, from software packages to the kernel. We also configured automatic updates.
+We ensured that the system was updated and all unnecessary services were disabled. Additionally, we used tools like ufw, nftables, and firewalld to create rules for network traffic.
 
-We also used `ufw` (uncomplicated firewall), `nftables`, and `firewalld` to easily create rules and allow or block network traffic. 
+To strengthen the system's security, we implemented strict password policies and learned how to create and manage users and their permissions using various Linux commands like chmod, chgrp, chown, and Access Control Lists (ACLs).
 
-Then, we looked at how we can implement strong password policies to ensure that all our passwords are complex enough to be safe from brute-force attacks. We also learned how to create new users and manage their groups and permissions using `chmod`, `chgrp`, `chown` and Linux Access Control Lists (ACLs). 
+Moreover, monitoring the system is crucial to prevent any malicious activity, and we learned how to check syslog, currently and recently logged-in users using commands like last and w. Finally, we installed and configured auditd using the auditctl command to keep track of system activity.
 
-It is crucial to monitor system your system to ensure that no malicious activity has taken place and for that we learned how to check `syslog` and the currently and recently logged-in users using the `last` and `w` commands. At last we installed `auditd` and used the `auditctl` command to configure `auditd` and monitor system activity.
+## Task 03, 04, 05 & 06
 
-# Task 3, 4, 5, 6
-```For any 3 tools describe in detail in you own words 
-3. what they do?
-4. How to affectively use them?
-5. Any short-comings they might have?
-6. Alternatives/Competitors they have?  
-```
-## Lynis
-- Lynis is an open-source security auditing tool for Linux and Unix-based systems. It performs various tests to evaluate the security posture of the system, including checking for misconfigured services, open ports, and vulnerable packages.
-- To use Lynis effectively, you should run it regularly and review its output to identify security weaknesses that need to be addressed. It's recommended to run it with root privileges to ensure it has access to all system files and settings.
-- Lynis can produce a high volume of output, which can be overwhelming for some users. Also, some of the suggested fixes may not be feasible or appropriate for your specific system.
-        Alternatives to Lynis include OpenVAS and Nessus.
+### Lynis
 
-## OpenSCAP
-- OpenSCAP is an open-source security compliance scanning and monitoring tool for Linux-based systems. It provides a framework for checking and enforcing system security standards, such as those defined by the Center for Internet Security (CIS) benchmarks.
-- To use OpenSCAP effectively, you should first determine which security standards you need to comply with and then configure OpenSCAP to run the appropriate checks. You can then automate the scanning and reporting process to ensure ongoing compliance.
-- OpenSCAP may require a significant amount of configuration and customization to meet your specific needs. Also, some users may find the documentation to be complex or difficult to understand.
-- Alternatives to OpenSCAP include CIS-CAT and Aqua Security's Kube-Bench.
+Lynis is a security auditing tool for Unix and Linux-based systems that is available as open-source software. It runs various tests to evaluate the security status of the system, such as checking for misconfigured services, open ports, and vulnerable packages.
 
-## Nixarmor
-- nixarmor is a Linux hardening tool that provides various security measures to protect against common attack vectors. It includes features such as process and network monitoring, file system protection, and kernel hardening.
-- To use nixarmor effectively, you should first determine which security measures are most important for your system and then configure nixarmor accordingly. This may involve creating custom rules or policies for certain processes or applications.
-- nixarmor may not be as well-known or widely used as some of the other tools on this list, which could make it more difficult to find support or troubleshooting help. Additionally, some users may find it challenging to configure or fine-tune the various security features.
-- Alternatives to nixarmor include AppArmor and SELinux.
+To utilize Lynis effectively, it is recommended to run it regularly with root privileges. It produces a substantial amount of output that can be challenging for some users to handle, and some of the suggested fixes may not be practical for specific systems. Other security auditing tools like OpenVAS and Nessus can be considered as alternatives.
+
+### OpenSCAP
+
+OpenSCAP is a security compliance monitoring and scanning tool for Linux-based systems that is also available as open-source software. It offers a framework for enforcing security standards, such as those defined by the Center for Internet Security (CIS) benchmarks.
+
+To make the most of OpenSCAP, you should first determine the security standards you need to comply with and configure the tool accordingly. The process can be automated to ensure continuous monitoring and compliance. OpenSCAP has a complex configuration process and may require customization to meet your specific needs. Other tools like CIS-CAT and Aqua Security's Kube-Bench can be considered as alternatives.
+
+### Nixarmor
+
+Nixarmor is a Linux hardening tool that provides various security measures to protect against common attack vectors. Its features include process and network monitoring, file system protection, and kernel hardening.
+
+To use Nixarmor effectively, you should first identify the security measures that are most important for your system and then configure the tool accordingly. This may involve creating custom rules or policies for specific processes or applications. Nixarmor is not as well-known or widely used as some of the other tools, making it harder to find support or troubleshooting help. Alternatives to Nixarmor include AppArmor and SELinux.
