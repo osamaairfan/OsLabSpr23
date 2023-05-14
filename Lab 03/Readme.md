@@ -15,11 +15,17 @@ Following are the key points of the lab manual:
 The shell script below emails the output of the command 'ifconfig' to the specified recipient:
 
 > #/usr/bin/bash
+> 
 > read -p "Name of recipient: " recp
+> 
 > subj="Network adapters"
+> 
 > ifconfig > file.txt
+> 
 > mail -s "$subj" $recp < file.txt
+> 
 > rm file.txt
+> 
 > echo "Mail sent successfully!"
 
 ## Q3
