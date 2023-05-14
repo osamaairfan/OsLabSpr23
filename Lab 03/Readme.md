@@ -27,6 +27,7 @@ echo "Mail sent successfully!"
 ```
 
 ## Q3
+Here is a script that asks the user if they want to set up or turn off a publicly accessible samba share:
 ```
 #!/bin/bash
 
