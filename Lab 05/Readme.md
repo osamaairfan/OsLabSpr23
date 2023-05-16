@@ -10,5 +10,5 @@ Section: BCY-4A
 ![image](https://github.com/osamaairfan/OsLabSpr23/assets/115397536/5b369b38-1625-42e3-9c88-0044487aa50c)
 
 
-##Task 02
+## Task 02
 ![image](https://github.com/osamaairfan/OsLabSpr23/assets/115397536/bf4f584a-18f7-4c8d-8d4b-535190b9795b)
